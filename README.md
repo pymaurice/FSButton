@@ -1,7 +1,7 @@
 FSButton
 ========
 
-Free Shaped UIButton subclass enabling interactions only on non-transparent area of it's image.
+UIButton subclass enabling interactions only on non-transparent areas.
 
 ## How to use it ?
 Just add the FSButton directory to your project (FSButton.h, FSButton.m, UIImage+Transparent.h, UIImage+Transparent.m).
